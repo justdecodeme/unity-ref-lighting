@@ -1008,3 +1008,43 @@ Received Import Request.
 Start importing Assets/HideOut/Models/House/Mets/Bricks.mat using Guid(56150a2091eb60f4480f94c1d15b2a6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb459f0587bd36c6170fd6ace81ac411') in 0.028205 seconds 
   Import took 0.068407 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 2435.902341 seconds.
+  path: Assets/LampWall/Textures
+  artifactKey: Guid(e6adf0de43f3ff840aa75cf8fe7847d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LampWall/Textures using Guid(e6adf0de43f3ff840aa75cf8fe7847d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebff9a3d397e4df7ba192aaa19cdf83a') in 0.585589 seconds 
+  Import took 1.965542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/LampWall/Prefab
+  artifactKey: Guid(6cebad6729caecf469ff5aa49faa052d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LampWall/Prefab using Guid(6cebad6729caecf469ff5aa49faa052d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70b9dd927b7398c84b9dd37af07d9ffd') in 0.076164 seconds 
+  Import took 0.084429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.601104 seconds.
+  path: Assets/LampWall/Prefab/Lamp_OFF.prefab
+  artifactKey: Guid(eb46849557b7317479b1c5c02c5b36ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LampWall/Prefab/Lamp_OFF.prefab using Guid(eb46849557b7317479b1c5c02c5b36ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1986bd3f7c2dbb313bfbc682c580bb06') in 11.181421 seconds 
+  Import took 11.216926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.454136 seconds.
+  path: Assets/LampWall/Prefab/Lamp_ON.prefab
+  artifactKey: Guid(7d5fac0efe938994aba24a88ba9c3057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LampWall/Prefab/Lamp_ON.prefab using Guid(7d5fac0efe938994aba24a88ba9c3057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00482d044905656f814c84bac44e337b') in 0.715274 seconds 
+  Import took 0.749569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1111.200984 seconds.
+  path: Assets/Old_USSR_Lamp/Prefabs
+  artifactKey: Guid(a57d65a1bc2050148a22d47560c3017e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old_USSR_Lamp/Prefabs using Guid(a57d65a1bc2050148a22d47560c3017e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37551880e25b81fa8fc45a7f6d2b777a') in 0.689637 seconds 
+  Import took 0.822994 seconds .
+
