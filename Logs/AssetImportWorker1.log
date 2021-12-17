@@ -148,3 +148,19 @@ Received Import Request.
 Start importing Assets/New Scene/OcclusionCullingData.asset using Guid(f6f9d5760920eea49aa9c268d3b31e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a0123c211966d3427559c2b3295b1ab') in 0.378922 seconds 
   Import took 0.383559 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1119.340054 seconds.
+  path: Assets/LightBox/LightBoxWithLights.prefab
+  artifactKey: Guid(e7e9ed8b0d0ad6b408fde08bc58a2030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LightBox/LightBoxWithLights.prefab using Guid(e7e9ed8b0d0ad6b408fde08bc58a2030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2afaa19a683a1860ef9fdb2cb2a9fa49') in 18.809668 seconds 
+  Import took 20.328951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.071629 seconds.
+  path: Assets/LightBox/LightBoxWithLights.prefab
+  artifactKey: Guid(e7e9ed8b0d0ad6b408fde08bc58a2030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LightBox/LightBoxWithLights.prefab using Guid(e7e9ed8b0d0ad6b408fde08bc58a2030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2afaa19a683a1860ef9fdb2cb2a9fa49') in 0.167740 seconds 
+  Import took 0.250634 seconds .
+
