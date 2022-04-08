@@ -6,6 +6,6 @@ using UnityEngine.SceneManagement;
 public class RestartScene : MonoBehaviour
 {
     private void OnTriggerEnter() {
-        SceneManager.LoadScene("_Finish");
+        SceneManager.LoadScene("_FinishDark");
     }
 }
